@@ -1,16 +1,13 @@
-## Hi there 👋
+## **Boas vindas ao meu perfil**
 
-<!--
-**Soarito03/Soarito03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Me chamo Cauã Soares
+- Estudo na esola Oswaldo Cruz
+- Faço curso de Bancos de Dados no Senai
+- Uso esse perfil para fazer as aulas do Thomaz Edson
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entre em contato comigo 📫
+  0000110045002600sp@al.educacao.sp.gov.br
+  
+  @campello.npc
+   
